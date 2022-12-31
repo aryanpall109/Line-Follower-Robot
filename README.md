@@ -8,7 +8,8 @@ Electronic Components Used :
      b) Motor Driver L293D
      c) Battery
      d) 10:1 Capacitors
-     e) DC Motors
+     e) DC Motors 2
+     f) IR Sensors 5
 
 Mechanical Components Used :
      a) Chasis 
